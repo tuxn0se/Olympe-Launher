@@ -1,13 +1,13 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.5",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Olympe-Launcher",
+    "preductname": "Olympe Launcher",
+    "version": "1.0.0",
+    "description": "Le launcher de l'Olympe !",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "author": "tuxn0se",
+    "url": "http://s944535246.onlinehome.fr/launcher/",
     "engines": {
-        "node": "^16.x.x"
+        "node": "16.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
@@ -25,12 +25,12 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^20.0.0",
-        "electron-builder": "^23.0.3",
+        "electron": "^22.0.0",
+        "electron-builder": "^22.10.3",
         "nodemon": "^2.0.16"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/tuxn0se/Olympe-Launher.git"
     }
 }
