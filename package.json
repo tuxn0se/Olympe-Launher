@@ -7,7 +7,7 @@
     "author": "tuxn0se",
     "url": "http://s944535246.onlinehome.fr/launcher/",
     "engines": {
-        "node": "16.x.x"
+        "node": "^16.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
