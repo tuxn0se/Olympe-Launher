@@ -1,7 +1,7 @@
 {
     "name": "Olympe-Launcher",
     "preductname": "Olympe Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Le launcher de l'Olympe !",
     "main": "src/app.js",
     "author": "tuxn0se",
